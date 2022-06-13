@@ -12,7 +12,7 @@
     <orderEntry type="jdk" jdkName="RVM: ruby-3.1.2 [rd_visual_test]" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v2.3.7, RVM: ruby-3.1.2 [rd_visual_test]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="dnks_clustering_indexes (v0.0.0, RVM: ruby-3.1.2 [rd_visual_test]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="dnks_clustering_indexes (v0.1.0, RVM: ruby-3.1.2 [rd_visual_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="gruff (v0.17.0, RVM: ruby-3.1.2 [rd_visual_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="histogram (v0.2.4.1, RVM: ruby-3.1.2 [rd_visual_test]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="kmeans-clusterer (v0.11.4, RVM: ruby-3.1.2 [rd_visual_test]) [gem]" level="application" />

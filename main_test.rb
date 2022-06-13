@@ -30,10 +30,7 @@ class CalculationsTest < Test::Unit::TestCase
     calc.build_by_kmeans_clustering
     calc.find_all_optimal_k_indexes
 
-    Constants::Indexes.constants.map { |ce| Constants::Indexes.const_get(ce) }.each do |str|
-      calc.show_index_table(str)
-    end
-    calc.
+    calc.show_all_indexes_table
 
     calc.show_optimal_k_indexes_table
     assert true

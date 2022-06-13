@@ -1,0 +1,27 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dnks_clustering_indexes (0.1.0)
+    gruff (0.17.0)
+      histogram
+      rmagick (>= 4.2)
+    histogram (0.2.4.1)
+    kmeans-clusterer (0.11.4)
+      narray (~> 0.6)
+    narray (0.6.1.2)
+    power_assert (2.0.1)
+    rmagick (4.2.5)
+    test-unit (3.5.3)
+      power_assert
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  dnks_clustering_indexes
+  gruff
+  kmeans-clusterer
+  test-unit
+
+BUNDLED WITH
+   2.3.7
